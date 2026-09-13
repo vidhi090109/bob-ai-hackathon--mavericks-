@@ -27,19 +27,17 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[A System that identifies which shipments are affected by an active disruption, recommends re-routing or carrier alternatives,
-identifies idle fleet assets for redeployment, and monitors cold chain IoT sensor logs to detect temperature excursions and classify their
-regulatory severity before delivery.]
+[An AI-powered supply chain decision-support system that detects shipment risks caused by active disruptions, recommends optimal rerouting or carrier alternatives, identifies idle fleet assets for redeployment, and monitors cold-chain sensor data to detect and classify temperature excursions before delivery.]
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
+- **Feature 1:** [Disruption Impact Detection — Identifies shipments affected by weather, port strikes, geopolitical events, and route disruptions.]
+- **Feature 2:** [Intelligent Route & Carrier Recommendation — Recommends alternative routes or carriers based on delay, cost, capacity, and risk.]
+- **Feature 3:** [Fleet Utilisation Optimizer — Detects idle trucks, containers, and other fleet assets and suggests optimal redeployment.]
+- **Feature 4:** [Cold-Chain Monitoring — Analyses IoT temperature logs to detect temperature excursions before delivery.]
+- **Feature 5:** [AI-Powered Decision Copilot — Provides a unified view of risks, recommended actions, and expected impact for logistics operators.]
 
 ---
 
