@@ -37,7 +37,7 @@
 - **Feature 2:** [Intelligent Route & Carrier Recommendation — Recommends alternative routes or carriers based on delay, cost, capacity, and risk.]
 - **Feature 3:** [Fleet Utilisation Optimizer — Detects idle trucks, containers, and other fleet assets and suggests optimal redeployment.]
 - **Feature 4:** [Cold-Chain Monitoring — Analyses IoT temperature logs to detect temperature excursions before delivery.]
-- **Feature 5:** [AI-Powered Decision Copilot — Provides a unified view of risks, recommended actions, and expected impact for logistics operators.]
+- **Feature 5:** [AI-Powered Decision Copilot — Provides a unified view of risks, recommended actions, and expected impact for logistics operators.Generative Insights Dashboard: Integrates an AI conversational assistant allowing operations teams to query complex supply chain logs and inventory distributions using natural language.]
 
 ---
 
