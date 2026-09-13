@@ -108,14 +108,14 @@ cp .env.example .env
 
 > Be honest — judges appreciate transparency over overclaiming.
 
-- [Limitation 1: e.g., "Authentication is mocked — not production-ready"]
-- [Limitation 2: e.g., "Only tested on Chrome"]
-- [Limitation 3: e.g., "Feature X is scaffolded but not fully implemented"]
+- [Limitation 1:Historical Disruption Data: The re-routing recommendation model is currently optimized for overland transit disruptions and requires further training for maritime bottleneck scenarios.]
+- [Limitation 2:IoT Hardware Simulation: Sensor logs are currently streamed via a robust mockup script rather than live, hardware-integrated physical edge units.]
+- [Limitation 3:Mocked Authentication: Enterprise RBAC (Role-Based Access Control) frameworks are scaffolded for presentation but lack production-grade OAuth2 verification.]
 
 ---
 
 ## 🏅 What We're Most Proud Of
 
-[Tell the judges what part of your submission is strongest and worth paying close attention to.]
+[We are incredibly proud of constructing a multi-layered automated decision pipeline that pairs real-time predictive logistics with complex regulatory classification. Instead of just presenting an analytics dashboard, our solution bridges the gap between raw hardware telemetry (IoT sensor data) and executive-level compliance management. Successfully orchestrating watsonx.ai to handle both real-time operational pivots and strict regulatory compliance reporting under hackathon time constraints was a monumental milestone for our team.]
 
 ---
