@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+[Supply Chain Disruption Assistant & Fleet Utilisation Optimizer]
 
 ---
 
@@ -27,7 +27,9 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+[A System that identifies which shipments are affected by an active disruption, recommends re-routing or carrier alternatives,
+identifies idle fleet assets for redeployment, and monitors cold chain IoT sensor logs to detect temperature excursions and classify their
+regulatory severity before delivery.]
 
 ---
 
