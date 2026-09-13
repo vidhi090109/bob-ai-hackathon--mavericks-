@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | [Mavericks] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Lead** | [Vidhi Patel] — [26dce088@charusat.edu.in] |
+| **Members** | [Archi Revar], [Hetvi Panara], [Dhruvi Sedaliya] |
 
 ---
 
