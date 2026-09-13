@@ -45,11 +45,11 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
-| **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
-| **Databases** | [e.g., PostgreSQL, Redis] |
-| **Other** | [e.g., Docker, GitHub Actions] |
+| **Languages** | [Python , TypeScript] |
+| **Frameworks** | [FastAPI, React.js, Tailwind CSS] |
+| **IBM Technologies** | [watsonx.ai (for disruption analysis & severity classification), IBM Cloud Object Storage (for telemetry archival)] |
+| **Databases** | [PostgreSQL (relational logs), Redis (real-time telemetry caching)] |
+| **Other** | [Docker, GitHub Actions] |
 
 ---
 
