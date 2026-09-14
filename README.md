@@ -97,9 +97,9 @@ cp .env.example .env
 
 | Artifact | Link |
 |---|---|
-| 📹 Demo Video | [See demo/demo-video-link.txt](demo/demo-video-link.txt) |
+| 📹 Demo Video | [See demo/demo-video-link.txt]() |
 | 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
-| 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
+| 🖼️ Screenshots | [See demo/screenshots/](file:///C:/Users/ASUS/OneDrive/Desktop/IBM%20Hackathon/Image%20to%20PDF%2020260914%2018.08.38.pdf) |
 | 📊 Presentation | [Presentation](https://1drv.ms/p/c/c2c290639ab4a8a3/IQAN4CpyKldcR4ekKjRxWdGEAd0AmjmIjqxVYEm798xCKCw?e=Eiz8H4) |
 
 ---
