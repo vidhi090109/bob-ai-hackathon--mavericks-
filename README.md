@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Supply Chain Disruption Assistant & Fleet Utilisation Optimizer]
+[Supply Chain Disruption Assistant & Fleet Utilisation Optimizer.]
 
 ---
 
