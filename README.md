@@ -99,7 +99,7 @@ cp .env.example .env
 |---|---|
 | 📹 Demo Video | [See demo/demo-video-link.txt]() |
 | 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
-| 🖼️ Screenshots | [See demo/screenshots/](file:///C:/Users/ASUS/OneDrive/Desktop/IBM%20Hackathon/Image%20to%20PDF%2020260914%2018.08.38.pdf) |
+| 🖼️ Screenshots | [See demo/screenshots/](https://drive.google.com/file/d/1ZLbZZsz9vTrlH16eyHu_vBYwizAkeZ24/view?usp=drivesdk) |
 | 📊 Presentation | [Presentation](https://1drv.ms/p/c/c2c290639ab4a8a3/IQAN4CpyKldcR4ekKjRxWdGEAd0AmjmIjqxVYEm798xCKCw?e=Eiz8H4) |
 
 ---
