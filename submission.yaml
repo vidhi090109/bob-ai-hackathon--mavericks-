@@ -9,51 +9,49 @@
 # =============================================================================
 
 team:
-  name: ""                             # REQUIRED — e.g., "Orion Squad"
-  track: ""                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
+  name: "Mavericks"                             # REQUIRED — e.g., "Orion Squad"
+  track: "AI|DevOps|Sustainibility|open"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
   lead:
-    name: ""                           # REQUIRED — e.g., "Alice Chen"
-    email: ""                          # REQUIRED — e.g., "alice.chen@ibm.com"
+    name: "Vidhi Patel"                           # REQUIRED — e.g., "Alice Chen"
+    email: "26dce088@charusat.edu.in"                          # REQUIRED — e.g., "alice.chen@ibm.com"
   members:
-    - name: ""                         # REQUIRED — Team member 1
-      email: ""
-    - name: ""                         # Add more members by copying the two lines above
-      email: ""
-    - name: ""
-      email: ""
+    - name: "Dhruvi Sedaliya"                         # REQUIRED — Team member 1
+      email: "26dce101@charusat.edu.in"
+    - name: "Archi Revar"                         # Add more members by copying the two lines above
+      email: "26dce096@charusat.edu.in"
+    - name: "Hetvi Panara"
+      email: "26dce058@charusat.edu.in"
 
 submission:
-  title: ""                            # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
+  title: "MavFlow: AI-Powered Logistics Disruption & Cold-Chain Intelligence"                            # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
 
   problem_statement: >                 # REQUIRED — 1-3 sentences. What problem? Who has it?
-    Replace this text with a concise description of the real-world problem
-    your project addresses and who experiences it.
+    Supply Chain Disruption Assistant & Fleet Utilisation Optimizer.
 
   solution_summary: >                  # REQUIRED — 1-3 sentences. What did you build?
-    Replace this text with a clear description of your solution
-    and how it addresses the problem above.
+    An AI-powered supply chain decision-support system that detects shipment risks caused by active disruptions, recommends optimal rerouting or carrier alternatives, identifies idle fleet assets for redeployment, and monitors cold-chain sensor data to detect and classify temperature excursions before delivery.
 
   key_features:                        # REQUIRED — List 3 to 5 specific features you implemented
-    - ""                               # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
-    - ""
-    - ""
-    - ""                               # optional 4th
-    - ""                               # optional 5th
+    - "Disruption Impact Detection — Identifies shipments affected by weather, port strikes, geopolitical events, and route disruptions."                               # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
+    - "Intelligent Route & Carrier Recommendation — Recommends alternative routes or carriers based on delay, cost, capacity, and risk."
+    - "Fleet Utilisation Optimizer — Detects idle trucks, containers, and other fleet assets and suggests optimal redeployment."
+    - "Cold-Chain Monitoring — Analyses IoT temperature logs to detect temperature excursions before delivery."                               # optional 4th
+    - "AI-Powered Decision Copilot — Provides a unified view of risks, recommended actions, and expected impact for logistics operators.Generative Insights Dashboard: Integrates an AI conversational assistant allowing operations teams to query complex supply chain logs and inventory distributions using natural language."                               # optional 5th
 
   tech_stack:
-    languages: []                      # REQUIRED — e.g., ["Python", "TypeScript"]
-    frameworks: []                     # e.g., ["FastAPI", "React"]
-    ibm_technologies: []               # e.g., ["watsonx.ai", "IBM Bob", "IBM Cloud Functions"]
-    databases: []                      # e.g., ["PostgreSQL", "Redis"]
-    other: []                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
+    languages: [HTML5,CSS3,Vanilla JavaScript]                      # REQUIRED — e.g., ["Python", "TypeScript"]
+    frameworks: [FastAPI, Node.js, Tailwind CSS]                     # e.g., ["FastAPI", "React"]
+    ibm_technologies: [watsonx.ai (for disruption analysis & severity classification), IBM Cloud Object Storage (for telemetry archival)]               # e.g., ["watsonx.ai", "IBM Bob", "IBM Cloud Functions"]
+    databases: [PostgreSQL (relational logs)]                      # e.g., ["PostgreSQL", "Redis"]
+    other: [MQTT or WebSockets (for realtime IoT updates)]                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
 
   what_we_are_most_proud_of: >         # Optional but recommended — guides judges to your best work
-    Replace with what aspect of the submission you consider strongest
-    and want judges to pay special attention to.
+   We are incredibly proud of constructing a multi-layered automated decision pipeline that pairs real-time predictive logistics with complex regulatory classification. Instead of just presenting an analytics dashboard, our solution bridges the gap between raw hardware telemetry (IoT sensor data) and executive-level compliance management. Successfully orchestrating watsonx.ai to handle both real-time operational pivots and strict regulatory compliance reporting under hackathon time constraints was a monumental milestone for our team.
 
   known_limitations: >                 # Optional but recommended — be honest about gaps
-    Replace with any known limitations, incomplete features,
-    or shortcuts taken due to time constraints.
+    Limitation 1:Historical Disruption Data: The re-routing recommendation model is currently optimized for overland transit disruptions and requires further training for maritime bottleneck scenarios.
+Limitation 2:IoT Hardware Simulation: Sensor logs are currently streamed via a robust mockup script rather than live, hardware-integrated physical edge units.
+Limitation 3:Mocked Authentication: Enterprise RBAC (Role-Based Access Control) frameworks are scaffolded for presentation but lack production-grade OAuth2 verification.
 
 # =============================================================================
 # ARTIFACT LOCATIONS
@@ -63,7 +61,7 @@ artifacts:
   source_code: "src/"
   setup_guide: "docs/setup-guide.md"
   architecture_doc: "docs/architecture.md"
-  demo_video: "demo/demo-video-link.txt"   # URL to hosted video (YouTube, Loom, Box)
-  live_demo: "demo/live-demo-url.txt"      # URL to deployed demo (optional)
+  demo_video: "https://drive.google.com/file/d/1fj9raA9wf02Isk8JvP8ClHo7kFBehKmO/view?usp=drivesdk"   # URL to hosted video (YouTube, Loom, Box)
+  live_demo: "https://mavflow.vercel.app/"      # URL to deployed demo (optional)
   screenshots: "demo/screenshots/"
   presentation: "presentation/"
