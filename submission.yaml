@@ -10,7 +10,7 @@
 
 team:
   name: "Mavericks"                             # REQUIRED — e.g., "Orion Squad"
-  track: "AI|DevOps|Sustainibility|open"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
+  track: "AI"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
   lead:
     name: "Vidhi Patel"                           # REQUIRED — e.g., "Alice Chen"
     email: "26dce088@charusat.edu.in"                          # REQUIRED — e.g., "alice.chen@ibm.com"
