@@ -61,7 +61,7 @@ artifacts:
   source_code: "src/"
   setup_guide: "docs/setup-guide.md"
   architecture_doc: "docs/architecture.md"
-  demo_video: "https://drive.google.com/file/d/1fj9raA9wf02Isk8JvP8ClHo7kFBehKmO/view?usp=drivesdk"   # URL to hosted video (YouTube, Loom, Box)
+  demo_video: "https://youtu.be/hLxFcUtBYog?si=kzPHLeJJVXjdZI_c"   # URL to hosted video (YouTube, Loom, Box)
   live_demo: "https://mavflow.vercel.app/"      # URL to deployed demo (optional)
   screenshots: "demo/screenshots/"
   presentation: "presentation/"
