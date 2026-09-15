@@ -97,10 +97,10 @@ cp .env.example .env
 
 | Artifact | Link |
 |---|---|
-| 📹 Demo Video | [See demo/demo-video-link](https://youtu.be/hLxFcUtBYog?si=kzPHLeJJVXjdZI_c) |
-| 🌐 Live Demo | [See demo/live-demo](https://mavflow.vercel.app/) |
-| 🖼️ Screenshots | [See demo/screenshots/](https://drive.google.com/file/d/1ZLbZZsz9vTrlH16eyHu_vBYwizAkeZ24/view?usp=drivesdk) |
-| 📊 Presentation | [Presentation](https://1drv.ms/p/c/c2c290639ab4a8a3/IQAN4CpyKldcR4ekKjRxWdGEAd0AmjmIjqxVYEm798xCKCw?e=Eiz8H4) |
+| 📹 Demo Video | [https://youtu.be/hLxFcUtBYog?si=kzPHLeJJVXjdZI_c](https://youtu.be/hLxFcUtBYog?si=kzPHLeJJVXjdZI_c) |
+| 🌐 Live Demo | [https://mavflow.vercel.app/](https://mavflow.vercel.app/) |
+| 🖼️ Screenshots | [https://drive.google.com/file/d/1ZLbZZsz9vTrlH16eyHu_vBYwizAkeZ24/view?usp=drivesdk](https://drive.google.com/file/d/1ZLbZZsz9vTrlH16eyHu_vBYwizAkeZ24/view?usp=drivesdk) |
+| 📊 Presentation | [https://1drv.ms/p/c/c2c290639ab4a8a3/IQAN4CpyKldcR4ekKjRxWdGEAd0AmjmIjqxVYEm798xCKCw?e=Eiz8H4](https://1drv.ms/p/c/c2c290639ab4a8a3/IQAN4CpyKldcR4ekKjRxWdGEAd0AmjmIjqxVYEm798xCKCw?e=Eiz8H4) |
 
 ---
 
