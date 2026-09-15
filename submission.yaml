@@ -50,8 +50,8 @@ submission:
 
   known_limitations: >                 # Optional but recommended — be honest about gaps
     Limitation 1:Historical Disruption Data: The re-routing recommendation model is currently optimized for overland transit disruptions and requires further training for maritime bottleneck scenarios.
-Limitation 2:IoT Hardware Simulation: Sensor logs are currently streamed via a robust mockup script rather than live, hardware-integrated physical edge units.
-Limitation 3:Mocked Authentication: Enterprise RBAC (Role-Based Access Control) frameworks are scaffolded for presentation but lack production-grade OAuth2 verification.
+    Limitation 2:IoT Hardware Simulation: Sensor logs are currently streamed via a robust mockup script rather than live, hardware-integrated physical edge units.
+    Limitation 3:Mocked Authentication: Enterprise RBAC (Role-Based Access Control) frameworks are scaffolded for presentation but lack production-grade OAuth2 verification.
 
 # =============================================================================
 # ARTIFACT LOCATIONS
